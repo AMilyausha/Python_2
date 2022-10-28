@@ -36,7 +36,7 @@ def player_vs_player():
     x = randint(1, 2)
     if x == 1:
         lucky = player_1
-        loser = playe
+        loser = player_2
     else:
         lucky = player_2
         loser = player_1
